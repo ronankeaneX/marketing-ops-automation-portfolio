@@ -5,7 +5,7 @@ This repository highlights examples of marketing operations, automation, and AI 
 
 My work centers on building and integrating marketing automation, CRM, data pipelines, and AI workflows that support scalable go-to-market operations.
 
-## View selected automation and analytics projects below.
+### --> View selected automation and analytics projects below.
 
 ---
 
