@@ -80,6 +80,19 @@ Projects exploring how AI can reduce manual marketing operations work and improv
 
 ---
 
+## Selected technical projects
+
+- **[Analytics Dashboard](https://github.com/ronankeaneX/analytics-dashboard)**  
+  Marketing operations reporting framework for funnel visibility, performance tracking, and KPI monitoring.
+
+- **[Perplexity MCP Server](https://github.com/ronankeaneX/perplexity-mcp-server)**  
+  AI automation and integration layer for building internal operations tools and workflow copilots.
+
+- **[Forecast Calculator MCP](https://github.com/ronankeaneX/forecast-calculator-mcp)**  
+  Automated forecasting and data processing service supporting operational reporting workflows.
+
+---
+
 ## Business problems these projects address
 
 - Broken or unreliable marketing automation  
